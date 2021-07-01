@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Xapo Sample</string>
+
+
+    <string-array name="language_list">
+        <item>En</item>
+        <item>Arabic</item>
+    </string-array>
+
+</resources>
